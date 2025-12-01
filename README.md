@@ -1,8 +1,8 @@
-# zte_webadmin
+# ZTE WebAdmin
 
 ==================================================================
 
-ZTE_WebAdmin (ZWA)
+ZTE WebAdmin (ZWA)
 中兴微4G模块调试工具(中兴微高级后台)
 
 Date: 2025-11-22
@@ -41,7 +41,7 @@ ZTE F30APRO F30BPRO F31 F31PRO F32PRO MF935 MF936 U10L U10S U10SPRO K10
 
 ==================================================================
 
-ZTE_WebAdmin (ZWA)
+ZTE WebAdmin (ZWA)
 ZTE 4G Module Debugging Tool
 
 ==================================================================
@@ -54,7 +54,7 @@ Full version feature demo page: https://zwa.mWiFi.icu/zwa/
 
 Usage Instructions:
 
-A. Please download the corresponding zwa_installer based on your device model. 
+A. Please download zwa_installer. 
 
 B. For battery-powered devices, connect them to the computer via USB cable after powering on. For non-battery devices, plug the USB directly into the computer.
 
