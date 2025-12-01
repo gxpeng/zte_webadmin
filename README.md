@@ -11,15 +11,14 @@ Date: 2025-11-22
 本工具由 www.mWiFi.icu 独家开发，已取得软件著作权
 网上其它类似界面和功能的中兴微后台均为剽窃篡改
 本安装包安装的为免费版本，包含去控优化及IMEI修改等功能
-完整版功能演示页面:  https://www.mWiFi.icu/zwa/
+完整版功能演示页面:  https://zwa.mWiFi.icu/zwa/
 闲鱼、微信、抖音、某安统一ID: mWiFi_icu
 
 ==================================================================
 
 使用方法：
 
-A. 请前往 https://www.mWiFi.icu/zwa/ 根据你的设备型号下载相应的 zwa_installer 安装程序
-   2025-11-22 开始全部机型均统一为一个安装程序包，下载任意一个即可。
+A. 请前往 https://zwa.mWiFi.icu/zwa/ 下载 zwa_installer 安装程序
 
 B. 下载后运行 zwa_installer 安装程序，将自动更新及下载必需资源
 
