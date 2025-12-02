@@ -14,6 +14,7 @@ Date: 2025-12-01
 完整版功能演示页面:  https://zwa.mWiFi.icu/zwa/
 闲鱼、微信、抖音、某安统一ID: mWiFi_icu
 
+TG群：https://t.me/+TnUOsfshQFcyMzgx
 ==================================================================
 
 使用方法：
@@ -51,6 +52,8 @@ Other with similar interfaces and functions online are plagiarized and tampered 
 Those who use plagiarized versions for profit are severely disdained.
 The installation package installs the free version, which includes features such as decontrol optimization and IMEI modification.
 Full version feature demo page: https://zwa.mWiFi.icu/zwa/
+
+TG GROUP：https://t.me/+TnUOsfshQFcyMzgx
 
 Usage Instructions:
 
