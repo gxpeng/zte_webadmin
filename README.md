@@ -6,6 +6,7 @@ ZTE WebAdmin (ZWA)
 中兴微4G模块调试工具(中兴微高级后台)
 
 Date: 2025-12-01
+
 ==================================================================
 
 本工具由 www.mWiFi.icu 独家开发，已取得软件著作权
@@ -13,6 +14,8 @@ Date: 2025-12-01
 本安装包安装的为免费版本，包含去控优化及IMEI修改等功能
 完整版功能演示页面:  https://zwa.mWiFi.icu/zwa/
 闲鱼、微信、抖音、某安统一ID: mWiFi_icu
+
+TG群：https://t.me/+TnUOsfshQFcyMzgx
 
 ==================================================================
 
@@ -51,6 +54,8 @@ Other with similar interfaces and functions online are plagiarized and tampered 
 Those who use plagiarized versions for profit are severely disdained.
 The installation package installs the free version, which includes features such as decontrol optimization and IMEI modification.
 Full version feature demo page: https://zwa.mWiFi.icu/zwa/
+
+TG GROUP：https://t.me/+TnUOsfshQFcyMzgx
 
 Usage Instructions:
 
