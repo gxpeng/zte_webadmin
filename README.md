@@ -56,12 +56,22 @@ ZTE 4G Module Debugging Tool
 ==================================================================
 
 This tool is exclusively developed by www.mWiFi.icu and has obtained software copyright.
+
 Other with similar interfaces and functions online are plagiarized and tampered with.
+
 Those who use plagiarized versions for profit are severely disdained.
-The installation package installs the free version, which includes features such as decontrol optimization and IMEI modification.
+
+The installation package installs the free version, 
+
+which includes features such as decontrol optimization and IMEI modification.
+
 Full version feature demo page: https://zwa.mWiFi.icu/zwa/
 
 TG GROUP：https://t.me/+TnUOsfshQFcyMzgx
+
+QQ GROUP：788087255
+
+==================================================================
 
 Usage Instructions:
 
