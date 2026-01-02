@@ -10,12 +10,18 @@ Date: 2025-12-01
 ==================================================================
 
 本工具由 www.mWiFi.icu 独家开发，已取得软件著作权
+
 网上其它类似界面和功能的中兴微后台均为剽窃篡改
+
 本安装包安装的为免费版本，包含去控优化及IMEI修改等功能
+
 完整版功能演示页面:  https://zwa.mWiFi.icu/zwa/
+
 闲鱼、微信、抖音、某安统一ID: mWiFi_icu
 
 TG群：https://t.me/+TnUOsfshQFcyMzgx
+
+QQ群：788087255
 
 ==================================================================
 
@@ -50,12 +56,22 @@ ZTE 4G Module Debugging Tool
 ==================================================================
 
 This tool is exclusively developed by www.mWiFi.icu and has obtained software copyright.
+
 Other with similar interfaces and functions online are plagiarized and tampered with.
+
 Those who use plagiarized versions for profit are severely disdained.
-The installation package installs the free version, which includes features such as decontrol optimization and IMEI modification.
+
+The installation package installs the free version, 
+
+which includes features such as decontrol optimization and IMEI modification.
+
 Full version feature demo page: https://zwa.mWiFi.icu/zwa/
 
 TG GROUP：https://t.me/+TnUOsfshQFcyMzgx
+
+QQ GROUP：788087255
+
+==================================================================
 
 Usage Instructions:
 
